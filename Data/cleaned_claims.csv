@@ -1,4 +1,0 @@
-claim_id,patient_id,provider_id,claim_amount,claim_date
-1001,P001,H101,250.5,2025-01-01
-1002,P002,H102,180.75,2025-01-02
-1003,P003,H101,300.0,2025-01-03
