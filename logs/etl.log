@@ -1,0 +1,15 @@
+2026-06-20 15:09:45,468 - INFO - ETL Started
+2026-06-20 15:09:45,471 - INFO - Records Extracted: 5
+2026-06-20 15:09:45,473 - INFO - Records After Cleaning: 3
+2026-06-20 15:09:45,475 - INFO - Cleaned CSV saved successfully
+2026-06-20 15:09:45,719 - INFO - Data loaded into SQLite successfully
+2026-06-20 15:09:45,725 - INFO - ETL Completed
+2026-06-20 15:16:18,155 - INFO - ETL Started
+2026-06-20 15:16:18,173 - INFO - Records Extracted: 5
+2026-06-20 15:16:18,174 - ERROR - ETL Failed: Missing required column: claim_amount
+2026-06-20 15:17:02,279 - INFO - ETL Started
+2026-06-20 15:17:02,282 - INFO - Records Extracted: 5
+2026-06-20 15:17:02,284 - INFO - Records After Cleaning: 3
+2026-06-20 15:17:02,286 - INFO - Cleaned CSV saved successfully
+2026-06-20 15:17:02,515 - INFO - Data loaded into SQLite successfully
+2026-06-20 15:17:02,516 - INFO - ETL Completed
